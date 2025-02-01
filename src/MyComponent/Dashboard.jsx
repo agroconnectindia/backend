@@ -1,6 +1,6 @@
 // import React from 'react'
 import React, { useEffect,useState } from 'react';
-import { myVariable } from './check'; 
+import data from './Variable'; 
 
 
 import logo from './icon/logot.png'
@@ -181,7 +181,7 @@ return (
         <div onClick={handleDivvClick3} className='min-h-[100px] sm:col-span-4 cursor-pointer   rounded-2xl backdrop-blur-2xl  shadow-2xl '>
         <div>
             <h1 className='text-2xl text-center  pt-2 font-bold italic'>Weather info</h1>
-            <p className='text-center md:mt-10 text-3xl font-bold'>{ myVariable }</p>
+            <p className='text-center md:mt-10 text-3xl font-bold'>{data.age}</p>
             </div>
         </div>
     </div>
