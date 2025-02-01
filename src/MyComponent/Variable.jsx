@@ -4,4 +4,10 @@ let data = {
     country: "India"
   };
   
-  export default user;
+  export default data;
+
+  // For Weather:
+  // temp
+  // wind speeed
+  // chance of rain
+  
