@@ -1,7 +1,11 @@
-# Backend
+## Hi there 👋
 
-### Collaborators:
+This is AgroConnect India - Backend Testing
 
-| Name | Roles | Email | Github |
-|:-:|:-:|:-:|:-:|
-|Prajwal Dhage|Overall|psdhage1@gmail.com|[@prajwaldhage](https://github.com/prajwaldhage)
+# Team Members:
+
+| Name | Roles | Email |
+| :---: | :---: | :---: |
+| Prajwal Dhage | Overall Project | psdhage1@gmail.com |
+| Pandurang Zure | Frontend | pandurangzure6@gmail.com |
+| Samarth Naikwade | Backend | samarthnaikwade@outlook.com |
